@@ -1,0 +1,6 @@
+name: astrbot_plugin_picstatus
+desc: 以精美的卡片图片形式展示 AstrBot 运行设备的系统状态（CPU、内存、磁盘、网速、进程等信息）
+author: yuexps (ported to AstrBot)
+version: "2.3.2-astrbot"
+repo: https://github.com/yuexps/nonebot-plugin-picstatus
+short_desc: 系统状态图片展示插件（移植版）
